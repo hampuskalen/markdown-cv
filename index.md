@@ -46,12 +46,10 @@ Teaching assistant, *Lund University*
 Configuration management intern, *Ericsson*, Kista
 
 ## Technical skills
-### Programming and software engineering
-Python, SQL, SAS, Matlab and some R and Javascript.  
-Azure Devops, GCP, dbt, Databricks. 
 
-### Data analysis and visualizations
-Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, statsmodels, scikit-learn
+Python, SQL, SAS, Matlab and some R and Javascript.  
+Azure Devops, GCP, Bigquery, Vertex AI, dbt, Databricks.  
+Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, statsmodels, scikit-learn  
 
 ## Other experience
 `2003-2020`
