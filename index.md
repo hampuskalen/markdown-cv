@@ -16,11 +16,8 @@ title: Hampus Kalén's CV
 Data engineer/Data scientist, *Auctionet*
 - One-man data team task with building the data stack from scratch.
 Responsibilties span from:
-- Understanding and formulating requirements. 
-- Architecting data stack
-- ELT
-- BI
-- Data science / Advanced Analytics
+  Understanding and formulating requirements. 
+  Architecting data stack, ELT, BI, Data science / Advanced Analytics
 
 
 `2022-2024`
