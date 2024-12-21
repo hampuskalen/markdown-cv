@@ -12,7 +12,18 @@ title: Hampus Kalén's CV
 
 ## Post graduation work experience
 
-`2022-ongoing`
+`2024-current`
+Data engineer/Data scientist, *Auctionet*
+- One-man data team task with building the data stack from scratch.
+Responsibilties span from:
+- Understanding and formulating requirements. 
+- Architecting data stack
+- ELT
+- BI
+- Data science / Advanced Analytics
+
+
+`2022-2024`
 Data scientist - Insurance, *Hedvig*
 - End-to-end data scientist working with full data use cases.
 - Responsibilities include pricing, reserving, and business analysis.
@@ -46,15 +57,12 @@ Teaching assistant, *Lund University*
 Configuration management intern, *Ericsson*, Kista
 
 ## Technical skills
-`Languages`
+### Programming and software engineering
 Python, SQL, SAS, Matlab and some R and Javascript.  
+Azure Devops, GCP, dbt, Databricks. 
 
-`Visualtisations`
-Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, statsmodels, scikit-learn 
-
-`Other tools`
-Azure Devops, GCP, Bigquery, Vertex AI, dbt, Databricks.  
- 
+### Data analysis and visualizations
+Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, statsmodels, scikit-learn
 
 ## Other experience
 `2003-2020`
@@ -71,4 +79,4 @@ Volounteer math tutor in secondary school
 
 Last updated: May 2013 -->
 
-
+ 
