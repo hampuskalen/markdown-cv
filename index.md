@@ -21,7 +21,7 @@ Responsibilties span from:
 
 `2022-2024`
 Data scientist - Insurance, *Hedvig*
-- End-to-end data scientist working with full data use cases.
+- End-to-end data scientist working with full data use cases. Ranging from Data engineering to BI.
 - Responsibilities include pricing, reserving, and business analysis.
 - Primary tools include Python, dbt and GCP (including Vertex AI)
 
