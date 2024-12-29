@@ -28,7 +28,7 @@ Data scientist - Insurance, *Hedvig*
 `2019-2022`
 Analyst, *If P&C Insurance*
 - Statstical modelling
-- Development of processes, moving workflows to modern tools, using Python in Databrics
+- Development of processes, moving workflows to modern tools, using Python in Databricks.
 
 ## Education
 
