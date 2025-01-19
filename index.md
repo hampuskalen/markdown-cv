@@ -13,7 +13,7 @@ title: Hampus Kalén's CV
 ## Post graduation work experience
 
 `2024-current`
-Data engineer/Data scientist, *Auctionet*
+Data engineer, *Auctionet*
 - One-man data team task with building the data stack from scratch.
 Responsibilties span from:
   Understanding and formulating requirements, Architecting data stack, ELT, BI, Data science / Advanced Analytics
@@ -21,7 +21,7 @@ Responsibilties span from:
 
 `2022-2024`
 Data scientist - Insurance, *Hedvig*
-- End-to-end data scientist working with full data use cases. Ranging from Data engineering to BI.
+- Full stack data scientist working with end-to-end data use cases. Ranging from Data engineering to BI.
 - Responsibilities include pricing, reserving, and business analysis.
 - Primary tools include Python, dbt and GCP (including Vertex AI)
 
