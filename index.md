@@ -15,7 +15,8 @@ title: Hampus Kalén's CV
 
 `2024-current`
 Data engineer/Data scientist, *Auctionet*
-First and only hire to newly formed data team. Built a data stack from scratch using open source technologies like **sling**, **dbt**, **Dagster** and **Metabase** 
+First and only hire to newly formed data team. Built a data stack from scratch using open source technologies like **sling**, **dbt**, **Dagster** and **Metabase**.
+
 Responsonsible for:
 - Understanding organisation data needs and formulating requirements
 - Architecting data stack from scratch
