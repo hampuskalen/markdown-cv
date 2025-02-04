@@ -3,6 +3,7 @@ layout: cv
 title: Hampus Kalén's CV
 ---
 # Hampus Kalén
+## Data engineer and Data scientist
 
 <div id="webaddress">
 <a href="hampus95@gmail.com">hampus95@gmail.com</a>
@@ -10,14 +11,14 @@ title: Hampus Kalén's CV
 </div>
 
 
-## Post graduation work experience
+## Professional experience
 
 `2024-current`
 Data engineer/Data scientist, *Auctionet*
-- One-man data team tasked with building the data stack from scratch.
-Responsibilties span from:
-- Understanding and formulating requirements. 
-- Architecting data stack
+First and only hire to newly formed data team. Built a data stack from scratch using open source technologies like **sling**, **dbt**, **Dagster** and **Metabase** 
+Responsonsible for:
+- Understanding organisation data needs and formulating requirements
+- Architecting data stack from scratch
 - ELT
 - BI
 - Data science / Advanced Analytics
