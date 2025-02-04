@@ -27,36 +27,14 @@ Responsonsible for:
 
 `2022-2024`
 Data scientist - Insurance, *Hedvig*
-- End-to-end data scientist working with full data use cases.
-- Responsibilities include pricing, reserving, and business analysis.
-- Primary tools include Python, dbt and GCP (including Vertex AI)
+Full stack data scientist with data engineering responsibilites. Worked with statistical modelling and machine learning, as well as ELT in **Fivetran** and **dbt**. Data stack hosted in **GCP**
+- End-to-end data scientist working with full data use cases
+- Responsibilities include pricing, reserving, and business analysis
 
 `2019-2022`
 Analyst, *If P&C Insurance*
-- Statstical modelling
-- Development of processes, moving workflows to modern tools, using Python in Databrics
-
-## Education
-
-`2014-2018`
-__Lund University__
-- Engineering Physics, specialized in statistics and machine learning.
-
-
-## Notable previous work experience
-
-`2020`
-Part time software engineer, *Voice Diagnostics*
-
-`2017`
-Software engineering intern, *Arm*, Lund
-
-`2016-2018`
-Teaching assistant, *Lund University*
-- Teaching basic courses in programming, control theory and statistics.
-
-`2013, 2014`
-Configuration management intern, *Ericsson*, Kista
+- Statstical modelling for insurance pricing
+- Development of processes, moving workflows to modern tools, using Python in Databricks
 
 ## Technical skills
 ### Programming and software engineering
@@ -66,16 +44,17 @@ Azure Devops, GCP, dbt, Databricks.
 ### Data analysis and visualizations
 Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, statsmodels, scikit-learn
 
+## Education
+
+`2014-2018`
+__Lund University__
+- Engineering Physics, specialized in statistics and machine learning.
+
 ## Other experience
-`2003-2020`
-Basketball player, coach, referee and volunteer
-- Played at national level for five years.
 
-`2016-2017`
-Student council member at F-sektionen, at Lund University
-
-`2012-2013`
-Volounteer math tutor in secondary school
+- Software engineering internships
+- Teaching and tutoring experinence in maths, programming and law
+- National level basketball player. Coach and referee 
 
 <!-- ### Footer
 
