@@ -38,11 +38,11 @@ Analyst, *If P&C Insurance*
 
 ## Technical skills
 ### Programming and software engineering
-Python, SQL, SAS, Matlab and some R and Javascript.  
-Azure Devops, GCP, dbt, Databricks. 
+Python, SQL, SAS, Matlab and some R and Javascript.
+Azure Devops, Github, GCP, dbt, Databricks, Postgres, Dagster, CI/CD.
 
 ### Data analysis and visualizations
-Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, statsmodels, scikit-learn
+Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, Metabase, statsmodels, scikit-learn
 
 ## Education
 
