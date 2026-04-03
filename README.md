@@ -16,7 +16,7 @@ and edit the `index.md` file [directly in Github](https://help.github.com/articl
 
 ![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-adding your skills, jobs and education.
+adding your skills, jobs and education. 
 
 ![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
