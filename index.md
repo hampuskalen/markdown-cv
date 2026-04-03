@@ -13,8 +13,16 @@ title: Hampus Kalén's CV
 
 ## Professional experience
 
-`2024-current`
-Data engineer/Data scientist, *Auctionet*
+`2025-current`
+Data Engineer, *EQT*
+Data engineer working on data pipelines to automate data sharing with service providers.
+Stack includes:
+- Snowflake
+- dbt
+- Python
+
+`2024-2025`
+Data engineer, *Auctionet*
 First and only hire to newly formed data team. Built a data stack from scratch using open source technologies like **sling**, **dbt**, **Dagster** and **Metabase**.
 
 Responsonsible for:
