@@ -16,6 +16,7 @@ title: Hampus Kalén's CV
 `2025-current`
 Data Engineer consultant, *EQT*  
 Data engineer working on data pipelines to automate data sharing with service providers.  
+Moving away from costly and error prone manual sharing of spreadsheets to a structured approach leveraging Snowflake and GCP.  
 
 Tech stack: Snowflake, dbt, GCP, Python, Temporal, Terraform, Fivetran, PowerBI
 
@@ -23,23 +24,23 @@ Tech stack: Snowflake, dbt, GCP, Python, Temporal, Terraform, Fivetran, PowerBI
 Data engineer, *Auctionet*  
 First and only hire to newly formed data team. Built a data stack from scratch.  
 Using purely open source solutions on self hosted Kubernetes clusters  
-Tasks included: Understanding organisation data needs and formulating requirements. Architecting data stack from scratch including ELT, BI and Data science/Machine learning as well as business analytics  
+My work entailed understanding organisation data needs and formulating requirements.   
+Architecting and building data stack from scratch including ELT, BI and Data science/Machine learning as well as business analytics  
 
 Tech stack: Python, dbt, SQL, Dagster, Kubernetes, Dagster, Postgres  
 
-
 `2022-2024`
 Data scientist - Insurance, *Hedvig*  
-Full stack data scientist with data engineering responsibilites. Worked with statistical modelling and machine learning.
-- End-to-end data scientist working with full data use cases
-- Responsibilities include pricing, reserving, and business analysis  
+Full stack data scientist with data engineering responsibilites. Worked with statistical modelling and machine learning.  
+End-to-end data scientist working with full data use cases  
+Responsibilities include pricing, reserving, and business analysis  
 
 Tech stack: Python, dbt, Looker, GCP, Vertex AI, Kubeflow, Biqguery
 
 `2019-2022`
 Analyst, *If P&C Insurance*  
-- Statstical modelling for insurance pricing
-- Development of processes, moving workflows to modern tools, using Python in Databricks
+Statistical modelling for insurance pricing  
+Development of processes, moving workflows to modern tools, using Python in Databricks
 
 Tech stack: Databricks, Python, Tableau, SQL, SAS
 
