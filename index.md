@@ -27,16 +27,15 @@ Responsonsible for:
 - Architecting data stack from scratch
 - ELT
 - BI
-- Data science / Advanced Analytics
+- Data science / Advanced Analytics  
 
 Tech stack: Python, dbt, SQL, Dagster, Kubernetes, Dagster, Postgres
-
 
 `2022-2024`
 Data scientist - Insurance, *Hedvig*  
 Full stack data scientist with data engineering responsibilites. Worked with statistical modelling and machine learning.
 - End-to-end data scientist working with full data use cases
-- Responsibilities include pricing, reserving, and business analysis
+- Responsibilities include pricing, reserving, and business analysis  
 
 Tech stack: Python, dbt, Looker, GCP, Vertex AI, Kubeflow, Biqguery
 
