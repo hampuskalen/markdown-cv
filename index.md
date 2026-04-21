@@ -14,12 +14,14 @@ title: Hampus Kalén's CV
 ## Professional experience
 
 `2025-current`
-Data Engineer, *EQT*  
+Data Engineer consultant, *EQT*  
 Data engineer working on data pipelines to automate data sharing with service providers.
 Stack includes:
 - Snowflake
 - dbt
 - Python
+- Terraform
+- Fivetran
 
 `2024-2025`
 Data engineer, *Auctionet*
