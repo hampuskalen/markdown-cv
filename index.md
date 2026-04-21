@@ -2,8 +2,7 @@
 layout: cv
 title: Hampus Kalén's CV
 ---
-# Hampus Kalén
-# Data engineer and Data scientist
+# Hampus Kalén - Full stack Data Engineer
 
 <div id="webaddress">
 <a href="hampus95@gmail.com">hampus95@gmail.com</a>
