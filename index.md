@@ -15,7 +15,8 @@ title: Hampus Kalén's CV
 `2025-current`
 Data Engineer consultant, *EQT*  
 Data engineer working on data pipelines to automate data sharing with service providers.  
-Tech stack includes: Snowflake, dbt, Python, Terraform, Fivetran, PowerBI
+
+Tech stack: Snowflake, dbt, GCP, Python, Temporal, Terraform, Fivetran, PowerBI
 
 `2024-2025`
 Data engineer, *Auctionet*  
