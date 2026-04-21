@@ -48,11 +48,8 @@ Analyst, *If P&C Insurance*
 Tech stack: Databricks, Python, Tableau, SQL, SAS
 
 ## Technical skills
-### Programming and software engineering
-Python, SQL, SAS, dbt, 
-Azure Devops, Github, GCP, dbt, Databricks, Postgres, Dagster, CI/CD.
+Python, SQL, SAS, dbt, Azure Devops, Github, GCP, dbt, Databricks, Postgres, Dagster, CI/CD.
 
-### Data analysis and visualizations
 Pandas, Jupyter, Matplotlib, Looker, SQL, Tableau, Metabase, statsmodels, scikit-learn
 
 ## Education
