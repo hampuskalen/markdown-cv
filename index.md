@@ -20,7 +20,7 @@ Tech stack includes: Snowflake, dbt, Python, Terraform, Fivetran, PowerBI
 
 `2024-2025`
 Data engineer, *Auctionet*  
-First and only hire to newly formed data team. Built a data stack from scratch using purely open source solutions on self hosted Kubernetes clusters
+First and only hire to newly formed data team. Built a data stack from scratch using purely open source solutions on self hosted Kubernetes clusters  
 _Tech stack: Python, dbt, SQL, Dagster, Kubernetes, Dagster, Postgres_
 Responsonsible for:
 - Understanding organisation data needs and formulating requirements
