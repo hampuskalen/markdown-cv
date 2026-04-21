@@ -16,15 +16,11 @@ title: Hampus Kalén's CV
 `2025-current`
 Data Engineer consultant, *EQT*  
 Data engineer working on data pipelines to automate data sharing with service providers.
-Stack includes:
-- Snowflake
-- dbt
-- Python
-- Terraform
-- Fivetran
+
+Tech stack includes: Snowflake, dbt, Python, Terraform, Fivetran, PowerBI
 
 `2024-2025`
-Data engineer, *Auctionet*
+Data engineer, *Auctionet*  
 First and only hire to newly formed data team. Built a data stack from scratch using open source technologies like **sling**, **dbt**, **Dagster** and **Metabase**.
 
 Responsonsible for:
@@ -33,22 +29,25 @@ Responsonsible for:
 - ELT
 - BI
 - Data science / Advanced Analytics
+Tech stack: Python, dbt, SQL, Dagster, Kubernetes, Dagster, Postgres
 
 
 `2022-2024`
-Data scientist - Insurance, *Hedvig*
-Full stack data scientist with data engineering responsibilites. Worked with statistical modelling and machine learning, as well as ELT in **Fivetran** and **dbt**. Data stack hosted in **GCP**
+Data scientist - Insurance, *Hedvig*  
+Full stack data scientist with data engineering responsibilites. Worked with statistical modelling and machine learning.
 - End-to-end data scientist working with full data use cases
 - Responsibilities include pricing, reserving, and business analysis
+Tech stack: Python, dbt, Looker, GCP, Vertex AI, Kubeflow, Biqguery
 
 `2019-2022`
-Analyst, *If P&C Insurance*
+Analyst, *If P&C Insurance*  
 - Statstical modelling for insurance pricing
 - Development of processes, moving workflows to modern tools, using Python in Databricks
+Tech stack: Databricks, Python, Tableau, SQL, SAS
 
 ## Technical skills
 ### Programming and software engineering
-Python, SQL, SAS, Matlab and some R and Javascript.
+Python, SQL, SAS, dbt, 
 Azure Devops, Github, GCP, dbt, Databricks, Postgres, Dagster, CI/CD.
 
 ### Data analysis and visualizations
@@ -68,6 +67,6 @@ __Lund University__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Apr 2026 -->
 
 
