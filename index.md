@@ -7,7 +7,7 @@ title: Hampus Kalén's CV
 <div id="webaddress">
 <a href="hampus95@gmail.com">hampus95@gmail.com</a>
 | <a href="https://www.linkedin.com/in/hampus-kalen/">My linkedin page</a>
-| <a 0723849108/a>
+| <a href="0723849108">0723849108</a>
 </div>
 
 
