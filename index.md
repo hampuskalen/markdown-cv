@@ -15,8 +15,7 @@ title: Hampus Kalén's CV
 
 `2025-current`
 Data Engineer consultant, *EQT*  
-Data engineer working on data pipelines to automate data sharing with service providers.
-
+Data engineer working on data pipelines to automate data sharing with service providers.  
 Tech stack includes: Snowflake, dbt, Python, Terraform, Fivetran, PowerBI
 
 `2024-2025`
@@ -28,7 +27,7 @@ Responsonsible for:
 - Architecting data stack from scratch
 - ELT
 - BI
-- Data science / Advanced Analytics
+- Data science / Advanced Analytics  
 Tech stack: Python, dbt, SQL, Dagster, Kubernetes, Dagster, Postgres
 
 
@@ -42,7 +41,7 @@ Tech stack: Python, dbt, Looker, GCP, Vertex AI, Kubeflow, Biqguery
 `2019-2022`
 Analyst, *If P&C Insurance*  
 - Statstical modelling for insurance pricing
-- Development of processes, moving workflows to modern tools, using Python in Databricks
+- Development of processes, moving workflows to modern tools, using Python in Databricks  
 Tech stack: Databricks, Python, Tableau, SQL, SAS
 
 ## Technical skills
